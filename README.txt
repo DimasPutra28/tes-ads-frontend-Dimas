@@ -9,7 +9,7 @@ install git
 	- Typescript yes
 	- tailwind ? yes
 	- ESlint? yes
-	- src/ directory no
+	- src/ directory yes
 	- app router? no 
 
 2. install nextauth
